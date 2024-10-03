@@ -1,1 +1,1 @@
-git@github.com:romanyurkin2024/ono-tebe-nado.git
+https://github.com/romanyurkin2024/ono-tebe-nado
